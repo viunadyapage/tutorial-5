@@ -1,2 +1,4 @@
-# tutorial 5
-tutorial 5 - PHP 
+Features:
+- Display simple data using controller and view
+- Display table data using Blade looping
+- Basic routing in Laravel
